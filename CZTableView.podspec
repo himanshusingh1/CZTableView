@@ -21,7 +21,7 @@ s.source           = { :git => 'https://github.com/himanshusingh1/CZTableView.gi
 
 s.ios.deployment_target = '8.0'
 
-s.source_files = 'HGPlaceholders/classes/**/*'
-s.resource = 'HGPlaceholders/Assets/*.*'
+s.source_files = 'CZTableView/classes/**/*'
+s.resource = 'CZTableView/Assets/*.*'
 
 end
