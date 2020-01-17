@@ -19,7 +19,7 @@ s.license          = { :type => 'MIT', :file => 'LICENSE' }
 s.author           = { 'HamzaGhazouani' => 'hamza.ghazouani@gmail.com' }
 s.source           = { :git => 'https://github.com/himanshusingh1/CZTableView.git', :tag => s.version.to_s }
 
-s.ios.deployment_target = '8.0'
+s.ios.deployment_target = '11.0'
 
 s.source_files = 'CZTableView/classes/**/*'
 s.resource = 'CZTableView/Assets/*.*'
